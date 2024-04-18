@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imtiazmasrur
-- 👀 I’m interested in IT, Business, Economics & Marketing.
-- 🌱 I’m currently learning Business, Microservice.
+- 👀 I’m interested in AI, IOT, Business, Economics & Marketing.
+- 🌱 I’m currently learning Business, IOT.
 - 💞️ I’m looking to collaborate on Business.
 - 📫 How to reach me? @imtiazmasrur
 
